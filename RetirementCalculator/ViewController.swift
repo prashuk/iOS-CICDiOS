@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  RetirementCalculator
 //
-//  Created by Eduardo Rosas on 8/19/19.
-//  Copyright © 2019 Eduardo Rosas. All rights reserved.
+//  Created by Prashuk Ajmera on 04/06/25.
 //
 
 import UIKit
